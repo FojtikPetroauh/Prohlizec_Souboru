@@ -3,6 +3,7 @@ public class Main {
     GUI menu = new GUI();
     menu.setVisible(true);
     menu.setSize(700, 700);
+    menu.setLocation(650, 250);
 
     }
 }
